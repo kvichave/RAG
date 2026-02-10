@@ -11,6 +11,8 @@ langchain-openai
 chromadb
 sentence-transformers
 pypdf
+python-docx
+docx2text
 
 
 
